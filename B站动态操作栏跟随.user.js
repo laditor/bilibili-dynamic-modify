@@ -10,8 +10,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        GM_addStyle
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/498006/B%E7%AB%99%E5%8A%A8%E6%80%81%E6%93%8D%E4%BD%9C%E6%A0%8F%E8%B7%9F%E9%9A%8F.user.js
-// @updateURL https://update.greasyfork.org/scripts/498006/B%E7%AB%99%E5%8A%A8%E6%80%81%E6%93%8D%E4%BD%9C%E6%A0%8F%E8%B7%9F%E9%9A%8F.meta.js
+// @downloadURL https://raw.githubusercontent.com/laditor/bilibili-dynamic-modify/main/B站动态操作栏跟随.user.js
+// @updateURL https://raw.githubusercontent.com/laditor/bilibili-dynamic-modify/main/B站动态操作栏跟随.user.js
 // ==/UserScript==
 
 (function() {
