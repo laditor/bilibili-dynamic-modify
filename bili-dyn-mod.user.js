@@ -10,8 +10,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        GM_addStyle
 // @license      MIT
-// @downloadURL https://raw.githubusercontent.com/laditor/bilibili-dynamic-modify/main/B站动态操作栏跟随.user.js
-// @updateURL https://raw.githubusercontent.com/laditor/bilibili-dynamic-modify/main/B站动态操作栏跟随.user.js
+// @downloadURL https://raw.githubusercontent.com/laditor/bilibili-dynamic-modify/main/bili-dyn-mod.user.js
+// @updateURL https://raw.githubusercontent.com/laditor/bilibili-dynamic-modify/main/bili-dyn-mod.user.js
 // ==/UserScript==
 
 (function() {
